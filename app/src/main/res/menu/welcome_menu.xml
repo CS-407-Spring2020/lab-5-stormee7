@@ -11,6 +11,7 @@
         android:id="@+id/AddNote"
         android:title="Add Note"
         app:showAsAction="never"
+
         />
 
 </menu>
